@@ -29,7 +29,7 @@ export default function Intro() {
           <h3>Freelance <span ref={textRef}></span></h3>
         </div>
         <a href="#portefolio">
-          <img src="assets/downarrow.png" alt="" />
+          <img src="assets/down.png" alt="" />
         </a>
       </div>
     </div>
