@@ -55,6 +55,8 @@ export default function Portefolio() {
       case "content":
         setData(contentPortfolio)
         break;
+      default:
+        break;
     }
 
 
